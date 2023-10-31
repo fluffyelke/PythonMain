@@ -1,0 +1,3 @@
+in python 
+we can open file in read mode with 'r', write mode with 'w', append mode with 'a', or mode that allow read and write 'r+'
+with open(myfile, ['r', 'w', 'a', 'r+']) as my_file:
